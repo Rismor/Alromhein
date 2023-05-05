@@ -1,0 +1,51 @@
+{
+  "Rashid": {
+    "name": "Rashid",
+    "children": []
+  },
+  "": {
+    "name": "",
+    "children": [
+      {
+        "name": "Shlash",
+        "children": []
+      },
+      {
+        "name": "Rashid",
+        "children": []
+      },
+      {
+        "name": "Rasheed",
+        "children": []
+      },
+      {
+        "name": "Daaebis",
+        "children": []
+      },
+      {
+        "name": "Tuma",
+        "children": []
+      },
+      {
+        "name": "Braheem",
+        "children": []
+      },
+      {
+        "name": "Eid",
+        "children": []
+      },
+      {
+        "name": "Dlaim",
+        "children": []
+      },
+      {
+        "name": "Sulayman",
+        "children": []
+      }
+    ]
+  },
+  "Salami": {
+    "name": "Salami",
+    "children": []
+  }
+}
