@@ -296,7 +296,18 @@
                           ]
                         },
                         {
-                          "name": "George"
+                          "name": "George",
+                          "children": [
+                            {
+                              "name": "Musa"
+                            },
+                            {
+                              "name": "Male"
+                            },
+                            {
+                              "name": "Male"
+                            }
+                          ]
                         },
                         {
                           "name": "Ghassan"
