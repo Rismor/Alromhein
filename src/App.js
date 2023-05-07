@@ -1,6 +1,7 @@
 import React from "react";
 import Tree from "react-d3-tree";
 import orgChartJson from "./data/names.json";
+import closeChartJson from "./data/close.json";
 import { useCenteredTree } from "./helpers";
 import "./styles.css";
 
@@ -30,7 +31,7 @@ export default function App() {
   return (
     <div style={containerStyles} ref={containerRef}>
       <Tree
-        data={orgChartJson}
+        data={closeChartJson}
         translate={translate}
         renderCustomNodeElement={renderRectSvgNode}
         orientation="vertical"

@@ -1,0 +1,130 @@
+{
+  "name": "Madallah",
+  "gender": "Male",
+  "children": [
+    {
+      "gender": "Male",
+      "name": "Amjad",
+      "children": [
+        {
+          "gender": "Male",
+          "name": "Stewart"
+        },
+        {
+          "gender": "Male",
+          "name": "Stiven"
+        },
+        {
+          "gender": "Female",
+          "name": "Kimberlyn",
+          "children": [
+            {
+              "gender": "Female",
+              "name": "Krystal"
+            }
+          ]
+        },
+        {
+          "gender": "Female",
+          "name": "Kinderlyn"
+        }
+      ]
+    },
+    {
+      "gender": "Male",
+      "name": "Mazen",
+      "children": [
+        {
+          "gender": "Male",
+          "name": "Morris"
+        },
+        {
+          "gender" : "Female",
+          "name": "Julia"
+        }
+      ]
+    },
+    {
+      "gender" : "Male",
+      "name": "Rasel",
+      "children": [
+        {
+          "gender" : "Female",
+          "name": "Rochelle"
+        },
+        {
+          "gender" : "Female",
+          "name": "Ana"
+        }
+      ]
+    },
+    {
+      "gender" : "Female",
+      "name": "Wagiha"
+    },
+    {
+      "gender" : "Female",
+      "name": "Nabeeha",
+      "children": [
+        {
+          "gender" : "Male",
+          "name": "Bashar"
+        },
+        {
+          "gender" : "Male",
+          "name": "Hazem"
+        },
+        {
+          "gender" : "Female",
+          "name": "Maysaa",
+          "children": [
+            {
+              "gender" : "Male",
+              "name": "Fadi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "gender" : "Female",
+      "name": "Magida"
+    },
+    {
+      "gender" : "Female",
+      "name": "Hoda"
+    },
+    {
+      "gender" : "Female",
+      "name": "Amal",
+      "children": [
+        {
+          "gender" : "Male",
+          "name": "Rami"
+        },
+        {
+          "gender" : "Male",
+          "name": "Bassel"
+        }
+      ]
+    },
+    {
+      "gender" : "Female",
+      "name": "Raghida",
+      "children": [
+        {
+          "gender" : "Female",
+          "name": "Rita"
+        },
+        {
+          "gender" : "Female",
+          "name": "Razan"
+        },
+        {
+          "gender" : "Female",
+          "name": "Christene"
+        }
+      ]
+    }
+  ]
+}
