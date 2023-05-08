@@ -30,6 +30,14 @@ const renderRectSvgNode = ({ nodeDatum, toggleNode }) => (
       </text>
       </>
     )}
+    {nodeDatum.gender === "Him" && (
+      <>
+    <circle r="10" onClick={toggleNode} fill="gold" />
+      <text fill="black" strokeWidth="1" x="20">
+        {nodeDatum.name}
+      </text>
+      </>
+    )}
   </g>
 );
 
