@@ -63,52 +63,66 @@
       "name": "Wagiha",
       "children": [
         {
-          "gender" : "Male",
+          "gender": "Male",
           "name": "Mohanned",
-          "children" : [
+          "children": [
             {
-              "gender" : "Female",
-              "name" : "Lean"
+              "gender": "Female",
+              "name": "Leen"
             },
             {
-              "gender" : "Female",
-              "name" : ""
+              "gender": "Female",
+              "name": "Mirna"
             }
           ]
         },
         {
-          "gender" : "Male",
-          "name": "Bassel"
+          "gender": "Male",
+          "name": "Bassel",
+          "children": [
+            {
+              "gender": "Female",
+              "name": "Celen"
+            },
+            {
+              "gender": "Female",
+              "name": "Lea"
+            }
+          ]
         },
         {
-          "gender" : "Female",
+          "gender": "Female",
           "name": "Rodena",
-          "children" : [
+          "children": [
             {
-              "gender" : "Female",
-              "name" : "Naya"
+              "gender": "Female",
+              "name": "Naya"
             },
             {
-              "gender" : "Female",
-              "name" : "Lara"
+              "gender": "Female",
+              "name": "Lara"
             },
             {
-              "gender" : "Female",
-              "name" : "Lamar"
+              "gender": "Female",
+              "name": "Lamar"
             }
           ]
         },
         {
-          "gender" : "Female",
+          "gender": "Female",
           "name": "Manal",
-          "children" :[
+          "children": [
             {
-              "gender" : "Male",
-              "name" : "Yazan"
+              "gender": "Male",
+              "name": "Yazan"
             },
             {
-              "gender" : "Male",
-              "name" : "Fadi" 
+              "gender": "Male",
+              "name": "Fadi"
+            },
+            {
+              "gender": "Male",
+              "name": "Peter"
             }
           ]
         }
@@ -144,7 +158,35 @@
     },
     {
       "gender": "Female",
-      "name": "Hoda"
+      "name": "Hoda",
+      "children": [
+        {
+          "gender": "Male",
+          "name": "Maher"
+        },
+        {
+          "gender": "Female",
+          "name": "Samia",
+          "children" : [
+            {
+              "gender" : "Male",
+              "name" : "Johnsami"
+            }
+          ]
+        },
+        {
+          "gender": "Female",
+          "name": "Sonia"
+        },
+        {
+          "gender": "Female",
+          "name": "Rula"
+        },
+        {
+          "gender": "Female",
+          "name": "Lina"
+        }
+      ]
     },
     {
       "gender": "Female",
