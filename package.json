@@ -1,7 +1,7 @@
 {
   "name": "alromhein",
   "version": "0.1.0",
-  "homepage" : "https://MorrisTYB.github.io/Alromhein", 
+  "homepage" : "https://alromhein.com", 
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
