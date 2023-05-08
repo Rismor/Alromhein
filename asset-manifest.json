@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alromhein/static/css/main.fc5c2c69.css",
+    "main.js": "/alromhein/static/js/main.f4779498.js",
+    "index.html": "/alromhein/index.html",
+    "main.fc5c2c69.css.map": "/alromhein/static/css/main.fc5c2c69.css.map",
+    "main.f4779498.js.map": "/alromhein/static/js/main.f4779498.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.f4779498.js"
+  ]
+}
