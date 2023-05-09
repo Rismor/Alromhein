@@ -162,15 +162,25 @@
       "children": [
         {
           "gender": "Male",
-          "name": "Maher"
+          "name": "Maher",
+          "children": [
+            {
+              "gender": "Female",
+              "name": "Grecia"
+            },
+            {
+              "gender" : "Male",
+              "name" : ""
+            }
+          ]
         },
         {
           "gender": "Female",
           "name": "Samia",
-          "children" : [
+          "children": [
             {
-              "gender" : "Male",
-              "name" : "Johnsami"
+              "gender": "Male",
+              "name": "Jhansami"
             }
           ]
         },
@@ -180,7 +190,17 @@
         },
         {
           "gender": "Female",
-          "name": "Rula"
+          "name": "Rola",
+          "children": [
+            {
+              "gender": "Male",
+              "name": "George"
+            },
+            {
+              "gender": "Female",
+              "name": "Rochelle"
+            }
+          ]
         },
         {
           "gender": "Female",
