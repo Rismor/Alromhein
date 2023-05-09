@@ -13,29 +13,29 @@ const containerStyles = {
 // as an SVG `rect` instead of the default `circle`.
 const renderRectSvgNode = ({ nodeDatum, toggleNode }) => (
   <g>
-    <circle r="10" onClick={toggleNode} fill="" />
+    <circle r="15" onClick={toggleNode} fill="" />
     {nodeDatum.gender === "Male" && (
       <>
-    <circle r="10" onClick={toggleNode} fill="lightblue" />
-      <text fill="black" strokeWidth="1" x="20">
-        {nodeDatum.name}
-      </text>
+        <circle r="15" onClick={toggleNode} fill="lightblue" />
+        <text fill="black" strokeWidth="1" x="25">
+          {nodeDatum.name}
+        </text>
       </>
     )}
     {nodeDatum.gender === "Female" && (
       <>
-    <circle r="10" onClick={toggleNode} fill="lightpink" />
-      <text fill="black" strokeWidth="1" x="20">
-        {nodeDatum.name}
-      </text>
+        <circle r="15" onClick={toggleNode} fill="lightpink" />
+        <text fill="black" strokeWidth="1" x="25">
+          {nodeDatum.name}
+        </text>
       </>
     )}
     {nodeDatum.gender === "Him" && (
       <>
-    <circle r="10" onClick={toggleNode} fill="gold" />
-      <text fill="black" strokeWidth="1" x="20">
-        {nodeDatum.name}
-      </text>
+        <circle r="15" onClick={toggleNode} fill="gold" />
+        <text fill="black" strokeWidth="1" x="20">
+          {nodeDatum.name}
+        </text>
       </>
     )}
   </g>
@@ -50,6 +50,8 @@ export default function App() {
         translate={translate}
         renderCustomNodeElement={renderRectSvgNode}
         orientation="vertical"
+        initialDepth={1}
+        zoom={0.31}
       />
     </div>
   );
