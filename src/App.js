@@ -51,7 +51,6 @@ export default function App() {
         renderCustomNodeElement={renderRectSvgNode}
         orientation="vertical"
         initialDepth={1}
-        zoom={0.31}
       />
     </div>
   );

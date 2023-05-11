@@ -1,5 +1,5 @@
 {
-  "name": "Madallah",
+  "name": "Madullah",
   "gender": "Male",
   "children": [
     {
@@ -60,7 +60,7 @@
     },
     {
       "gender": "Female",
-      "name": "Wagiha",
+      "name": "Wajiha",
       "children": [
         {
           "gender": "Male",
@@ -92,7 +92,7 @@
         },
         {
           "gender": "Female",
-          "name": "Rodena",
+          "name": "Rodaina",
           "children": [
             {
               "gender": "Female",
@@ -154,7 +154,7 @@
     },
     {
       "gender": "Female",
-      "name": "Magida"
+      "name": "Majda"
     },
     {
       "gender": "Female",
@@ -170,7 +170,7 @@
             },
             {
               "gender" : "Male",
-              "name" : "Gaspel"
+              "name" : "Charbel"
             }
           ]
         },
