@@ -154,7 +154,67 @@
     },
     {
       "gender": "Female",
-      "name": "Majda"
+      "name": "Majda",
+      "children": [
+        {
+          "gender": "Male",
+          "name": "Anas",
+          "children": [
+            {
+              "gender": "Male",
+              "name": "Joe"
+            },
+            {
+              "gender": "Female",
+              "name": "Sofia"
+            },
+            {
+              "gender": "Female",
+              "name": "Ava"
+            }
+          ]
+        },
+        {
+          "gender": "Male",
+          "name": "Amer"
+        },
+        {
+          "gender": "Male",
+          "name": "Peter"
+        },
+        {
+          "gender": "Female",
+          "name": "Rasha",
+          "children": [
+            {
+              "gender": "Male",
+              "name": "Elias"
+            },
+            {
+              "gender": "Female",
+              "name": "Sara"
+            }
+          ]
+        },
+        {
+          "gender": "Female",
+          "name": "Rauaa",
+          "children": [
+            {
+              "gender": "Male",
+              "name": "Gabriel"
+            },
+            {
+              "gender": "Female",
+              "name": "Lily"
+            }
+          ]
+        },
+        {
+          "gender": "Female",
+          "name": "Manar"
+        }
+      ]
     },
     {
       "gender": "Female",
@@ -169,8 +229,8 @@
               "name": "Grecia"
             },
             {
-              "gender" : "Male",
-              "name" : "Charbel"
+              "gender": "Male",
+              "name": "Charbel"
             }
           ]
         },
