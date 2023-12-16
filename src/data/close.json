@@ -35,7 +35,7 @@
       "name": "Mazen",
       "children": [
         {
-          "gender": "Him",
+          "gender": "Male",
           "name": "Morris"
         },
         {
@@ -82,11 +82,11 @@
           "children": [
             {
               "gender": "Female",
-              "name": "Celen"
+              "name": "Selena"
             },
             {
               "gender": "Female",
-              "name": "Lea"
+              "name": "Laya"
             }
           ]
         },
