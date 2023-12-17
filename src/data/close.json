@@ -1,59 +1,72 @@
 {
   "name": "Madallah",
+  "year" : 1929,
   "gender": "Male",
   "children": [
     {
       "gender": "Male",
       "name": "Amjad",
+      "year" : 1962,
       "children": [
         {
           "gender": "Male",
-          "name": "Stewart"
+          "name": "Stewart",
+          "year" : 1989
         },
         {
           "gender": "Male",
-          "name": "Stiven"
+          "name": "Stiven",
+          "year" : 1996
         },
         {
           "gender": "Female",
           "name": "Kimberlyn",
+          "year" : 1994,
           "children": [
             {
               "gender": "Female",
+              "year" : 2022,
               "name": "Krystal"
             }
           ]
         },
         {
           "gender": "Female",
+          "year" : 2000,
           "name": "Kinderlyn"
         }
       ]
     },
     {
       "gender": "Male",
+      "year" : 1970,
       "name": "Mazen",
       "children": [
         {
           "gender": "Male",
+          "year" : 1999,
           "name": "Morris"
         },
         {
           "gender": "Female",
+          "year" : 2004,
           "name": "Julia"
         }
       ]
     },
     {
       "gender": "Male",
+      "year" : 1973,
       "name": "Rasel",
       "children": [
         {
           "gender": "Female",
+          "year" : 2013,
           "name": "Rochelle"
         },
         {
           "gender": "Female",
+          "year" : 2013,
           "name": "Ana"
         }
       ]
@@ -61,17 +74,21 @@
     {
       "gender": "Female",
       "name": "Wajiha",
+      "year" : 1955,
       "children": [
         {
           "gender": "Male",
           "name": "Mohanned",
+          "year" : 1974,
           "children": [
             {
               "gender": "Female",
+              "year" : 2007,
               "name": "Leen"
             },
             {
               "gender": "Female",
+              "year" : 2011,
               "name": "Merna"
             }
           ]
@@ -79,49 +96,61 @@
         {
           "gender": "Male",
           "name": "Bassel",
+          "year" : 1976,
           "children": [
             {
               "gender": "Female",
+              "year" : 2008,
               "name": "Silina"
+              
             },
             {
               "gender": "Female",
+              "year" : 2010,
               "name": "Laya"
             }
           ]
         },
         {
           "gender": "Female",
+          "year" : 1978,
           "name": "Rodaina",
           "children": [
             {
               "gender": "Female",
+              "year" : 2003,
               "name": "Naya"
             },
             {
               "gender": "Female",
+              "year" : 2008,
               "name": "Lara"
             },
             {
               "gender": "Female",
+              "year" : 2013,
               "name": "Lamar"
             }
           ]
         },
         {
           "gender": "Female",
+          "year" : 1980,
           "name": "Manal",
           "children": [
             {
               "gender": "Male",
+              "year" : 2005,
               "name": "Yazan"
             },
             {
               "gender": "Male",
+              "year" : 2010,
               "name": "Fadi"
             },
             {
               "gender": "Male",
+              "year" : 1992,
               "name": "Peter"
             }
           ]
@@ -130,22 +159,27 @@
     },
     {
       "gender": "Female",
+      "year" : 1957,
       "name": "Nabeeha",
       "children": [
         {
           "gender": "Male",
+          "year" : 1980,
           "name": "Bashar"
         },
         {
           "gender": "Male",
+          "year" : 1985,
           "name": "Hazem"
         },
         {
           "gender": "Female",
+          "year" : 1978,
           "name": "Maysaa",
           "children": [
             {
               "gender": "Male",
+              "year" : 2004,
               "name": "Fadi"
             }
           ]
@@ -154,75 +188,91 @@
     },
     {
       "gender": "Female",
+      "year" : 1958,
       "name": "Majda",
       "children": [
         {
           "gender": "Male",
+          "year" : 1978,
           "name": "Anas",
           "children": [
             {
               "gender": "Male",
+              "year" : 1900,
               "name": "Joe"
             },
             {
               "gender": "Female",
+              "year" : 1900,
               "name": "Sofia"
             },
             {
               "gender": "Female",
+              "year" : 2017,
               "name": "Ava"
             }
           ]
         },
         {
           "gender": "Male",
+          "year" : 1900,
           "name": "Amer"
         },
         {
           "gender": "Male",
+          "year" : 1900,
           "name": "Peter"
         },
         {
           "gender": "Female",
+          "year" : 1984,
           "name": "Rasha",
           "children": [
             {
               "gender": "Male",
+              "year" : 1900,
               "name": "Elias"
             },
             {
               "gender": "Female",
+              "year" : 1900,
               "name": "Sara"
             }
           ]
         },
         {
           "gender": "Female",
+          "year" : 1985,
           "name": "Rauaa",
           "children": [
             {
               "gender": "Male",
+              "year" : 2014,
               "name": "Gabriel"
             },
             {
               "gender": "Female",
+              "year" : 2010,
               "name": "Lily"
             }
           ]
         },
         {
           "gender": "Female",
+          "year" : 1992,
           "name": "Manar"
         }
       ]
     },
     {
       "gender": "Female",
+      "year" : 1960,
       "name": "Hoda",
       "children": [
         {
           "gender": "Male",
           "name": "Maher",
+          "year" : 1982,
           "children": [
             {
               "gender": "Female",
@@ -236,6 +286,7 @@
         },
         {
           "gender": "Female",
+          "year" : 1978,
           "name": "Samia",
           "children": [
             {
@@ -246,6 +297,7 @@
         },
         {
           "gender": "Female",
+          "year" : 1980,
           "name": "Sonia"
         },
         {
@@ -264,38 +316,46 @@
         },
         {
           "gender": "Female",
+          "year" : 1989,
           "name": "Lina"
         }
       ]
     },
     {
       "gender": "Female",
+      "year" : 1966,
       "name": "Amal",
       "children": [
         {
           "gender": "Male",
+          "year" : 1990,
           "name": "Rami"
         },
         {
           "gender": "Male",
+          "year" : 1992,
           "name": "Bassel"
         }
       ]
     },
     {
       "gender": "Female",
+      "year" : 1968,
       "name": "Raghida",
       "children": [
         {
           "gender": "Female",
+          "year" : 1982,
           "name": "Rita"
         },
         {
           "gender": "Female",
+          "year" : 1997,
           "name": "Razan"
         },
         {
           "gender": "Female",
+          "year" : 1999,
           "name": "Christene"
         }
       ]

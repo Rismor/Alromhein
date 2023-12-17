@@ -20,6 +20,9 @@ const renderRectSvgNode = ({ nodeDatum, toggleNode }) => (
         <text fill="black" strokeWidth="1" x="25">
           {nodeDatum.name}
         </text>
+        <text fill="black" strokeWidth="1" x="25" y="15">
+          {nodeDatum.year}
+        </text>
       </>
     )}
     {nodeDatum.gender === "Female" && (
@@ -28,6 +31,9 @@ const renderRectSvgNode = ({ nodeDatum, toggleNode }) => (
         <text fill="black" strokeWidth="1" x="25">
           {nodeDatum.name}
         </text>
+        <text fill="black" strokeWidth="1" x="25" y="15">
+          {nodeDatum.year}
+        </text>
       </>
     )}
     {nodeDatum.gender === "Him" && (
@@ -35,6 +41,9 @@ const renderRectSvgNode = ({ nodeDatum, toggleNode }) => (
         <circle r="15" onClick={toggleNode} fill="gold" />
         <text fill="black" strokeWidth="1" x="20">
           {nodeDatum.name}
+        </text>
+        <text fill="black" strokeWidth="1" x="25" y="15">
+          {nodeDatum.year}
         </text>
       </>
     )}
